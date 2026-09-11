@@ -4,6 +4,9 @@ Cosy is a small native Linux debugger for x86-64 and AArch64 programs. It uses
 ptrace, ELF symbols, and DWARF debug information; it is intentionally a CLI,
 not an IDE or an AI agent.
 
+> ⚠️ **Disclaimer:** The following information is currently being reviewed and verified. Content may change as updates become available.
+
+
 ## Build
 
 Debian/Ubuntu dependencies:
